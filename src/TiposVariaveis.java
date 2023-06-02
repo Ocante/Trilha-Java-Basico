@@ -9,14 +9,14 @@ public class TiposVariaveis {
         // double salario = 1275.33;
         // TiposEVariaveis.java
 
-        short numeroCurto = 1;
-        int numeroNormal = numeroCurto;
-        short numeroCurto2 = (short) numeroNormal;
+        // short numeroCurto = 1;
+        // int numeroNormal = numeroCurto;
+        // short numeroCurto2 = (short) numeroNormal;
 
-        int numero = 10;
+        // int numero = 10;
 
-        System.out.print(numero);
-        final double VALOR_DE_PI = 3.14;
+        // System.out.print(numero);
+        // final double VALOR_DE_PI = 3.14;
 
     }
 }
